@@ -73,5 +73,6 @@ int main(){
 	cout << endl << "input number and char : ";
 	cin >> number1;
 	t(number1);
+	// check
 	return 0;
 }
