@@ -1,2 +1,4 @@
+
 thêm thử ở nhánh cross
 xem có bị gì không
+thêm chữ vào file new
