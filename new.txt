@@ -1,4 +1,5 @@
 
 thêm thử ở nhánh cross
 xem có bị gì không
+không full về xem bị lỗi không
 thêm chữ vào file new
