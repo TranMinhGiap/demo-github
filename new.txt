@@ -2,5 +2,4 @@ thêm để trộn thư sau khi đã hiểu sơ sơ !
 thêm thử ở nhánh cross
 xem có bị gì không
 không full về xem bị lỗi không
-thêm chữ vào file new
-thêm thử ở nhánh main
+
